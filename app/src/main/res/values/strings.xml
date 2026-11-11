@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clean Cleaner</string>
+    <string name="tab_cache_map">Cache Map</string>
+    <string name="tab_storage_analyzer">Storage Analyzer</string>
+    <string name="permission_usage_title">Usage Access Required</string>
+    <string name="permission_usage_desc">Clean Cleaner needs Usage Access to query system storage statistics, detect app cache sizes, and visualize storage usage without accessing private app data.</string>
+    <string name="permission_usage_button">Grant Usage Access</string>
+    <string name="permission_storage_title">All Files Access Required</string>
+    <string name="permission_storage_desc">To scan public storage, find dead/empty folders, and pinpoint large files, Clean Cleaner requires All Files Access.</string>
+    <string name="permission_storage_button">Grant All Files Access</string>
+    <string name="clear_in_settings">Clear Cache in Settings</string>
+    <string name="open_app">Open App</string>
+    <string name="empty_folders_detected">%1$d empty folders detected</string>
+    <string name="delete_empty_folders">Delete Empty Folders</string>
+    <string name="top_largest_files">Top 20 Largest Files</string>
+    <string name="refresh">Refresh</string>
+</resources>
